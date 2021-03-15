@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 t.printStackTrace();
             }
         });
-        
+
     }
 
     private void chamaAdapter() {
