@@ -13,4 +13,5 @@
     <color name="primaryLightColor">#4d5486</color>
     <color name="primaryDarkColor">#00002f</color>
     <color name="primaryTextColor">#ffffff</color>
+    <color name="backgroundGray">#F1F1F1</color>
 </resources>
